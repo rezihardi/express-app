@@ -1,4 +1,6 @@
+//import express from express di routes dan di index 
 import express from "express";
+
 // import router
 import Router from "./routes/routes.js";
  
